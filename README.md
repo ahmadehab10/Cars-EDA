@@ -19,8 +19,8 @@ This project focuses on the exploration and visualization of a car dataset to an
 - **Statistical Insights:** Added reference lines (e.g., average count lines in bar charts) to enhance interpretation.
 
 ## Technologies Used
-- ** Python**
-- ** Pandas**
-- ** Seaborn & Matplotlib
+-  Python
+-  Pandas
+-  Seaborn & Matplotlib
 -  Jupyter Notebook
 
