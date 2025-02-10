@@ -7,7 +7,6 @@ https://www.kaggle.com/datasets/CooperUnion/cardataset
 This project focuses on the exploration and visualization of a car dataset to analyze key automotive trends. The dataset includes various attributes such as vehicle make, model, year, engine specifications, pricing, and fuel efficiency. Using Python, Pandas, and Seaborn, we performed extensive data exploration to uncover insights about car pricing, engine performance, and market trends.
 
 ## Exploratory Data Analysis (EDA)
-**Handling Missing Values:** Replaced null values in `Engine HP` with the brand's average horsepower.
 - **Brand Analysis:** Grouped and ranked car brands by their average MSRP.
 - **Visualization:**
 - **Bar Charts:** Used to show the average price per brand and per vehicle size.
