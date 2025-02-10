@@ -10,12 +10,17 @@ This project focuses on the exploration and visualization of a car dataset to an
 **Handling Missing Values:** Replaced null values in `Engine HP` with the brand's average horsepower.
 - **Brand Analysis:** Grouped and ranked car brands by their average MSRP.
 - **Visualization:**
-  - **Bar Charts:** Used to show the average price per brand and per vehicle size.
-  - **Line Charts:** Added a secondary line plot on bar charts to visualize additional data like car count per brand.
-  - **Scatter Plots:** Explored the correlation between `Engine HP` and `MSRP`, categorized by `Vehicle Size`.
-  - **Histograms:** Examined the price distribution of vehicles.
-  - **Count Plots:** Displayed the frequency of different transmission types, ordered by popularity.
-  - **Pie Charts:** Visualized categorical distributions such as `Engine Fuel Type`.
-- **Statistical Insights:** Added reference lines (e.g., average count lines in bar charts) to enhance interpretation.
+  **Bar Charts:** Used to show the average price per brand and per vehicle size.
+  **Line Charts:** Added a secondary line plot on bar charts to visualize additional data like car count per brand.
+  **Scatter Plots:** Explored the correlation between `Engine HP` and `MSRP`, categorized by `Vehicle Size`.
+  **Histograms:** Examined the price distribution of vehicles.
+  **Count Plots:** Displayed the frequency of different transmission types, ordered by popularity.
+  **Pie Charts:** Visualized categorical distributions such as `Engine Fuel Type`.
+**Statistical Insights:** Added reference lines (e.g., average count lines in bar charts) to enhance interpretation.
 
 ## Technologies Used
+** Python
+** Pandas
+** Seaborn & Matplotlib
+** Jupyter Notebook
+
